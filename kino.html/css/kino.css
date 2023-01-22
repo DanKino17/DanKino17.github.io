@@ -14,7 +14,9 @@ h1,h3{
 }
 @media (max-width: 1000px) {
     #harry1{
-        margin: 0% 0% 0% 40%;
+        margin: 0% 0% 0% 20%;
+        width:400px;
+        height: 500px;
     }
     #info{
         margin: 18% -5% 0% 0%;
