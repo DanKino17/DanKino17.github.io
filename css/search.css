@@ -69,6 +69,10 @@ hr {
 		position: relative;
 		z-index: 2;
 		font-size: 150%;
+		
+	}
+	#cartoons{
+		margin-top: -7%;
 	}
 
 	#sub-navigation {
