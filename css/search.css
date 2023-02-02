@@ -24,9 +24,6 @@ hr {
 		background-size: 22px;
 		background-position: 10px 50%;
 	}
-	#fix{
-		margin-top: 8%;
-	}
 	.search {
 		position: relative;
 		width: 40px;
@@ -69,10 +66,6 @@ hr {
 		position: relative;
 		z-index: 2;
 		font-size: 150%;
-		
-	}
-	.cartoons{
-		margin-top: 2%;
 	}
 
 	#sub-navigation {
@@ -114,7 +107,7 @@ hr {
 	.movie-image img {
 		width: 309px;
 		height: 472px;
-		margin: 10% 0% 0% -20%;
+		margin: 0% 0% 0% -20%;
 	}
 
 	.rating p {
